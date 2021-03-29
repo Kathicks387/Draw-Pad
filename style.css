@@ -40,7 +40,15 @@ canvas {
   padding: 0.25rem;
   cursor: pointer;
 }
+h1, h3 {
+    color: steelblue;
+   
+}
 
 .toolbox > *:last-child {
   margin-left: auto;
+}
+
+h1 {
+    margin-left: 6rem;
 }
